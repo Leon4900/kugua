@@ -6,6 +6,7 @@
   "engines": {
     "node": "^20.19.0 || >=22.12.0"
   },
+  "homepage": "https://leon4900.github.io/kugua",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
